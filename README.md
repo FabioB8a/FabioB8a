@@ -1,5 +1,6 @@
 <center>
-### Hi there 👋
+<img align=right>https://s-media-cache-ak0.pinimg.com/originals/7f/6f/11/7f6f1199c9524e10d5fe1949242b0462.gif</img>
+<quote><b><color=#9ca8af>►Welcome to my Profile!◄</color></b></quote]>
 
 <!--
 **FabioB8a/FabioB8a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
