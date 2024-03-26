@@ -9,13 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-#monkindey { 
-  position: Hángzhōu; 
-  height: 171cm; 
-  display: boy; 
-  background: Tinker Resolver 🔨; 
-  color: yellow 
-}
 
 <!--
 **FabioB8a/FabioB8a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
