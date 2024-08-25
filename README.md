@@ -10,13 +10,27 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:fabiobuitra@gmail.com)
 [![Instagram Badge](http://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=c13584&link=https://www.instagram.com/fabsb8a/?hl=es-la)](https://www.instagram.com/fabsb8a/?hl=es-la)
 
-## 📬 Projects I'm proud of
+## 📬 Projects I'm most proud of
 
-Totto x el mundo
+<div align="center" align-content="stretch" >
 
-StudyBuddy
+<table>
+  <tr>
+    <td>
+      <img src="img/TottoxElMundo.png" height="50" alt="Totto x El Mundo">
+    </td>
+    <td>
+      Totto x El Mundo
+    </td>
+  </tr>
+</table>
 
-<sub>(Currently wanting to connect with more people to be in Hackathons 👨🏻‍💻)</sub>
+<sub> Individual development of a website using Next.js that integrates a chatbot prototype based on the Open AI API,</sub>
+
+<sub> as part of the proposed 360 Strategy for the Totto Crea 2023 Contest. </sub>
+
+<sub> The group managed to position itself among the top 10 finalists out of 400 participants. </sub>
+</div>
 
 ## ⚙️ Technologies & Tools
 
@@ -78,5 +92,8 @@ StudyBuddy
 * 🗣️ I am fluent in three languages: Spanish 🇪🇸 (my first language), English 🇬🇧, and French 🇫🇷. Now, I’m picking up some Korean 🇰🇷.
 * 🎥 I’m a big fan of anime—no surprise, given my love for music. My all-time favorite series are Mushishi, Monster, and Sangatsu no Lion.
 * 📺 I’m also into K-dramas. My favorites right now are A Daily Dose of Sunshine, The Good Bad Mother, and Move to Heaven.
-  
+
+
+<sub>(Currently working on StudyBuddy and GlaucomApp 👨🏻‍💻)</sub>
+
 ![](https://komarev.com/ghpvc/?username=FabioB8a&&color=2bbc8a&style=for-the-badge)
