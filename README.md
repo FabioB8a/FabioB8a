@@ -9,7 +9,7 @@
 * 🎹 I love playing the piano and diving into music theory. Right now, I’m learning to play <a href="https://www.youtube.com/watch?v=l4O9lB0A9ns&list=RDMMl4O9lB0A9ns&start_radio=1">Kimi no na wa OST - Kataware Doki (Piano)</a>, by Theister.
 * 🔭 Ever since I was a kid, I’ve been fascinated by astronomy, astrophotography, and cosmology. Someday soon, I hope to be involved in a project related to these passions.
 * 🏊 I’ve just started swimming classes! It’s something I’ve loved since I was a kid, so I’m excited to get back into it.
-* 🗣️ I am fluent three languages: Spanish 🇪🇸 (my first language), English 🇬🇧, and French 🇫🇷. Now, I’m picking up some Korean 🇰🇷.
+* 🗣️ I am fluent in three languages: Spanish 🇪🇸 (my first language), English 🇬🇧, and French 🇫🇷. Now, I’m picking up some Korean 🇰🇷.
 * 🎥 I’m a big fan of anime—no surprise, given my love for music. My all-time favorite series are Mushishi, Monster, and Sangatsu no Lion.
 * 📺 I’m also into K-dramas. My favorites right now are A Daily Dose of Sunshine, The Good Bad Mother, and Move to Heaven.
   
