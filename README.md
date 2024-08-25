@@ -7,8 +7,8 @@
 ## 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/FabioB8a/)](https://github.com/FabioB8a/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://co.linkedin.com/in/fabio-luis-buitrago-ochoa-107a3427b)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:defcon.fabiobuitra@gmail.com)
-[![Instagram Badge](http://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=c13584&link=https://www.instagram.com/fabsb8a/?hl=es-la)]([https://github.com/FabioB8a/](https://www.instagram.com/fabsb8a/?hl=es-la))
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:fabiobuitra@gmail.com)
+[![Instagram Badge](http://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=c13584&link=https://www.instagram.com/fabsb8a/?hl=es-la)](https://www.instagram.com/fabsb8a/?hl=es-la)
 
 ## ⚙️ Technologies & Tools
 
