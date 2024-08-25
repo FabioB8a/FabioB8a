@@ -12,24 +12,24 @@
 
 ## 📬 Projects I'm most proud of
 
-<div align="center" align-content="stretch" >
+<div align="center">
 
 <table>
   <tr>
     <td>
-      <img src="img/TottoxElMundo.png" height="50" alt="Totto x El Mundo">
+      <img src="img/TottoxElMundo.png" height="50" width="50" alt="Totto x El Mundo">
     </td>
     <td>
-      Totto x El Mundo
+      Totto x El Mundo • Totto Crea 2023 Contest<br>
+      <sub> • Individual development of a website using Next.js that integrates a chatbot prototype based on the Open AI API,</sub><br>
+      <sub> as part of the proposed 360 Strategy for the Totto Crea 2023 Contest. </sub><br>
+      <sub> • The group managed to position itself among the top 10 finalists out of 400 participants. </sub>
     </td>
+     
   </tr>
+ 
 </table>
 
-<sub> Individual development of a website using Next.js that integrates a chatbot prototype based on the Open AI API,</sub>
-
-<sub> as part of the proposed 360 Strategy for the Totto Crea 2023 Contest. </sub>
-
-<sub> The group managed to position itself among the top 10 finalists out of 400 participants. </sub>
 </div>
 
 ## ⚙️ Technologies & Tools
